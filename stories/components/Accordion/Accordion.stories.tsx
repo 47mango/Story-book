@@ -11,6 +11,7 @@ import {
 const meta = {
   title: "Practice/Accordion",
   component: Accordion,
+  tags: ["autodocs"],
   args: {
     className: "max-w-md mx-auto",
   },

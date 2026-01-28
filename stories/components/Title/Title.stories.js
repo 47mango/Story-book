@@ -7,6 +7,7 @@ import Title from "./Title";
 export default {
   title: "Practice/Title",
   component: Title,
+  tags: ["autodocs"],
   argTypes: {
     title: { control: "text" },
   },
